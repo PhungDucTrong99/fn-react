@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+  text-align: left !important;
+  background-color: #f4f5f5;
+  height: 50px;
+  border: 1px solid #dee2e6;
+}
+.text-left {
+  text-align: left !important;
+}
+
+.border {
+  border: 6px solid blue !important;
+}
+
+.border-top {
+  border-top: 6px solid blue !important;
+}

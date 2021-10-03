@@ -1,0 +1,26 @@
+[
+    {
+        "book" : "Tôi đi code dạo",
+        "type" : "Long Story",
+        "author" : "Trong",
+        "price" : 51000,
+        "publicdate" : "29 Jun 1954",
+        "quantity" : 2
+    },
+    {
+        "book" : "Tôi đi code dạo 2",
+        "type" : "Long Story",
+        "author" : "Trong",
+        "price" :  50000,
+        "publicdate" : "29 Jun 1954",
+        "quantity" : 2
+    },
+    {
+        "book" : "Tôi đi code dạo 3",
+        "type" : "Long Story",
+        "author" : "Trong",
+        "price" : 40000,
+        "publicdate" : "29 Jun 1954",
+        "quantity" : 2
+    }
+]
